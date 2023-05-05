@@ -2,7 +2,7 @@
 
 How to make you chat history download look like this with an index at the start:
 
-<img src=“chatwithIndex.png” width=“50%” height=“50%”>
+<img src=“https://github.com/grayerbeard/GPTchathistory/chatwithIndex.png” width=“50%” height=“50%”>
 
 I had accumulated over 60 Chats and I was having problems finding my way to a useful item.   So I downloaded my chat history.
 
