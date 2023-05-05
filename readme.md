@@ -63,7 +63,6 @@ What GPT4 gave me was a replacement set of scripts to put at the end that caused
 
 ```
 ]
-<script>
 function createTableOfContents(jsonData) {
         const toc = document.createElement('ol');
         
