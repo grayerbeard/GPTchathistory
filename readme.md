@@ -1,4 +1,9 @@
 # Adding an Index to your Chat GPT History HTML File
+
+How to make you chat history download look like this with an index at the start:
+
+<img src=“chatwithIndex.png” width=“50%” height=“50%”>
+
 I had accumulated over 60 Chats and I was having problems finding my way to a useful item.   So I downloaded my chat history.
 
 Trouble then was that I ended up with this big file and 69 chats and it was hard to find what I wanted.
